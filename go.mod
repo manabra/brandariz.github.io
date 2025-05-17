@@ -1,4 +1,4 @@
-module github.com/manabra/brandariz
+module github.com/manabra/brandariz.github.io
 
 go 1.21
 
